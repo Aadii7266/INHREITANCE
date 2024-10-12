@@ -10,10 +10,13 @@ Inheritance is a key feature of object-oriented programming (OOP) that allows a 
 Key Concepts
 Base Class: The class whose properties and methods are inherited.
 Derived Class: The class that inherits from the base class.
-Access Specifiers: Control the access level of the base class members in the derived class. These include:
-public: Members are accessible from outside the class.
-protected: Members are accessible within the class and by derived classes.
-private: Members are accessible only within the class.
+Access Specifiers: Control the access level of the base class members in the derived class. 
+These include:
+               public: Members are accessible from outside the class.
+              protected: Members are accessible within the class and by derived classes.
+              private: Members are accessible only within the class.
+
+
 Types of Inheritance
 Single Inheritance: A derived class inherits from a single base class.
 Multiple Inheritance: A derived class inherits from more than one base class.
